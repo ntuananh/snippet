@@ -1,0 +1,7 @@
+alias gro="git reset --hard @{u}"
+alias gpub="git push -u origin HEAD"
+alias gst="git status -sb"
+alias gs="git stash"
+alias gc="git commit"
+alias gredo="git commit --amend --no-edit"
+alias gconf="git diff --name-only --diff-filter=U"
